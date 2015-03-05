@@ -1,4 +1,4 @@
-Copyright (C) 2015 by Miten Jain (miten@soe.ucsc.edu), Benedict Paten, Hugh Olsen
+Copyright (C) 2014 by Benedict Paten (benedictpaten@gmail.com), Miten Jain, Hugh Olsen
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
