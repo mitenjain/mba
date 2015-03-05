@@ -1,0 +1,6 @@
+[submodule "submodules/PyPore"]
+	path = submodules/PyPore
+	url = https://github.com/jmschrei/PyPore
+[submodule "submodules/yahmm"]
+	path = submodules/yahmm
+	url = https://github.com/jmschrei/yahmm
